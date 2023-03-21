@@ -15,3 +15,5 @@ download and download edt version
 4. mingw64
 LINK:
 https://github.com/niXman/mingw-builds-binaries/releases
+
+For convenience, we will integrate them in subsequent versions
